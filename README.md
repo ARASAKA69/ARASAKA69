@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=卂尺卂丂卂Ҝ卂;Arasaka+Development;Privacy%E2%80%91minded+engineering;Ship+tools%2C+not+lock%E2%80%91in" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=56&lines=卂尺卂丂卂Ҝ卂;Arasaka+Development;Privacy%E2%80%91minded+engineering;Ship+tools%2C+not+lock%E2%80%91in" alt="typing intro" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:238636&height=120&section=header&text=ARASAKA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:238636&height=200&section=header&text=ARASAKA&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" width="800" />
 
 </div>
 
@@ -33,9 +33,46 @@ Some of the most interesting work never hits the public graph: **backend and inf
 
 ### Languages & stacks
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,javascript,php,html,css,bash,linux,git,vscode&perline=9" alt="skills" />
+
+</div>
+
+<br/>
+
 **Visible on this profile:** Kotlin · JavaScript · PHP · HTML/CSS — plus shell where it helps ship reliable tooling.
 
 **Also in use (kept intentionally light here):** additional languages and runtimes show up in **private** and **archived** contexts; I prefer not to turn a README into a résumé parser.
+
+---
+
+### GitHub metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=ARASAKA69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" width="420" />
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARASAKA69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" width="320" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=ARASAKA69&theme=tokyonight&hide_border=true" alt="Streak stats" width="800" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARASAKA69&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" alt="Activity graph" width="800" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -61,12 +98,7 @@ Some of the most interesting work never hits the public graph: **backend and inf
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARASAKA69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARASAKA69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:1f6feb&height=100&section=footer&fontSize=0" alt="footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:1f6feb&height=140&section=footer&fontSize=0" alt="footer" width="800" />
 
 <sub>Digital sovereignty — engineered, not promised.</sub>
 
