@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:238636&height=200&section=header&text=ARASAKA&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" width="800" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:238636&height=200&section=header&text=卂尺卂丂卂Ҝ卂&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" width="800" />
 
 </div>
 
