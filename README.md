@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=56&lines=卂尺卂丂卂Ҝ卂;Arasaka+Development;Privacy%E2%80%91minded+engineering;Ship+tools%2C+not+lock%E2%80%91in" alt="typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=56&lines=%E5%8D%82%E5%B0%BA%E5%8D%82%E4%B8%82%E5%8D%82%D2%9C%E5%8D%82%3BArasaka%20Development%3BPrivacy%E2%80%91minded%20engineering%3BShip%20tools%2C%20not%20lock%E2%80%91in" alt="" />
 
 <br/>
 
@@ -54,10 +54,10 @@ Some of the most interesting work never hits the public graph: **backend and inf
 <table>
 <tr>
 <td align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=ARASAKA69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" width="420" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARASAKA69&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="" width="420" />
 </td>
 <td align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARASAKA69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" width="320" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ARASAKA69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="" width="320" />
 </td>
 </tr>
 <tr>
